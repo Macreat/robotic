@@ -1,0 +1,7 @@
+SIM ROBOTIC
+
+ROS2
+GAZEBO
+LIDAR
+UDF
+ALGORTMS SLAM on OS , gmapping, cartographer y slam_toolbox 
